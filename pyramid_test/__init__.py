@@ -13,6 +13,7 @@ def main(global_config, **settings):
     
     
     #config.add_route('page3', '/page3')
+    #config.add_route('page4', '/page4') #By 
     
     
     config.scan()
