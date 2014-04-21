@@ -6,5 +6,6 @@ sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 3. added v and b
 4. added me
 4. chnges vi
+5. commit 6b
 
 
