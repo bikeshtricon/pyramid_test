@@ -11,5 +11,10 @@ sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 6. commit 9th bm
 7. v
 7. b
+<<<<<<< HEAD
 8. b
+=======
+8. v
+
+>>>>>>> branch 'master' of https://github.com/bikeshtricon/pyramid_test.git
 
